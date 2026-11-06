@@ -1,0 +1,16 @@
+# Archivos generados al compilar
+target/
+out/
+*.class
+
+# Configuracion de IDEs
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# Archivos generados por el modulo de calificaciones
+datos/calificaciones_curso_*.csv
+datos/importacion_errores.log
